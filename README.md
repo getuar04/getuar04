@@ -256,12 +256,6 @@ ASP.NET Core • C# • Entity Framework
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=getuar04&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=getuar04&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ## 🎯 Current Focus
@@ -275,21 +269,3 @@ ASP.NET Core • C# • Entity Framework
 * Kubernetes & DevOps
 * System Design
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=getuar04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getuar04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=getuar04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=getuar04&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
